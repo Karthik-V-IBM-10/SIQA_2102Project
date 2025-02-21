@@ -12,10 +12,6 @@ services:
   packages:
   - name: SIQA_2102Project
     version: "1.0"
-- serviceName: project.siqa_2102.integrations:SIQAAdapterFlow
-  packages:
-  - name: SIQA_2102Project
-    version: "1.0"
 - serviceName: project.siqa_2102.integrations:Sum
   packages:
   - name: SIQA_2102Project
